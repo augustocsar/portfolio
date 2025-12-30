@@ -1,4 +1,4 @@
-# AI Engineering Portfolio - Augusto César
+# AI Engineering Portifolio - Augusto César
 
 Este repositório contém o código-fonte do meu portfólio profissional, focado em soluções de **Engenharia de Inteligência Artificial**, **Sistemas Inteligentes** e **Arquitetura Cloud**.
 
